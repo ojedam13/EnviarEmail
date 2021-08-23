@@ -1,1 +1,1 @@
-# EnviarEmail: Proyecto 1 del curso de Udemy (Javascript moderno de Juan Pablo de la Torre Valdez)
+# EnviarEmail: Proyecto 2 del curso de Udemy (Javascript moderno de Juan Pablo de la Torre Valdez)
